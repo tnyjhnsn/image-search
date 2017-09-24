@@ -15,6 +15,6 @@ mongo.connect(uri, (err, db) => {
 
 	let port = process.env.PORT || 3002
 	app.listen(port, () => {
-		console.log(console.log('Node.js listening on port ' + port + '...'))
+		console.log('Node.js listening on port ' + port + '...')
 	})
 })
