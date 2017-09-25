@@ -8,6 +8,6 @@ FCC - API Projects - Image Search Abstraction Layer
 Further details about the request and response for the Google custom search API can be found at `https://developers.google.com/custom-search/json-api/v1/reference/cse/list`
 
 #### Usage
-`http://www.tosp.net.au:3002/`  
-`http://www.tosp.net.au:3002/imagesearch/lolcat?offset=5`  
-`http://www.tosp.net.au:3002/latest`
+http://www.tosp.net.au:3002/  
+http://www.tosp.net.au:3002/imagesearch/lolcat?offset=5  
+http://www.tosp.net.au:3002/latest
